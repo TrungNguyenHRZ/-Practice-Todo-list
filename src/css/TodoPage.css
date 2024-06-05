@@ -1,0 +1,23 @@
+.todo-page-header {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+.todo-add {
+  display: flex;
+  justify-content: center;
+}
+
+.todo-list-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.todo-list {
+  width: 80%;
+}
+.todo-list-actions {
+  display: flex;
+  gap: 10px;
+}
